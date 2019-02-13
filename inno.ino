@@ -10,8 +10,14 @@ void setup() {
   lcd.setCursor(0, 1);
   lcd.print("Innovation ?");
   delay(2000);
-  printLine(3, "Neues entdecken");
-  printLine(1, "Grenzen sprengen");
+  printLine(3, "Grenzen sprengen");
+  printLine(1, "Neues...");
+  printLine(3, "...entdecken");
+  printLine(1, "Kreativ sein");
+  printLine(3, ":-) :-)");
+  printLine(1, "Andere Wege");
+  printLine(3, "suchen...");
+  
 
 }
 
