@@ -18,6 +18,7 @@ void setup() {
   printLine(1, "Andere Wege");
   printLine(3, "suchen...");
   
+  //All diese Eigenschaften bring ich mit und würde gerne bei euch im team arbeiten
 
 }
 
