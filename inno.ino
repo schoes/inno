@@ -123,6 +123,9 @@ void showSoftSkills()
   delay(2000);
   display.println(F("- geduldig/ausdauernd"));
   display.display();
+  delay(2000);
+  display.println(F("- kommunikativ"));
+  display.display();
   delay(3000);
 }
 void showTechSkills()
